@@ -1,1 +1,1 @@
-export { ShortUUID } from "./main.ts";
+export { LenUUID } from "./main.ts";
